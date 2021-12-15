@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html>
+    <link rel="icon" href="assets/images/logo.png" type="image/x-icon"/>
+    <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon"/>
 <head>
+    <script>
+        var userLang = navigator.language || navigator.userLanguage;
+
+        console.log(userLang);
+        
+        if(userLang=="it-IT"||userLang=="it") location.replace("https://tommasozanoner.eu/it")
+        else if(userLang=="en-GB"||userLang=="en") location.replace("https://tommasozanoner.eu/en")
+        else location.replace("https://tommasozanoner.eu/en")
+        </script>
 <title>Tommaso Zanoner</title>
 </head>
 <body>
 
-<h1>Sito in manutenzione</h1>
+<p>EN - If you are not automatically redirected click manually <a href="https://tommasozanoner.eu/en">here</a>.</p>
+<p>IT - Se non vieni re-indirizzato automaticamente, procedi manualmente cliccando <a href="https://tommasozanoner.eu/it">qui</a>.</p>
 
 </body>
 </html>
