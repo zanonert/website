@@ -39,7 +39,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-ms-12">
-					    <a target="_blank" rel="nofollow" href="https://tommasozanoner.eu">tommasozanoner.eu</a> | Copyright &copy; 2021 Tommaso Zanoner;
+					    <a target="_blank" rel="nofollow" href="https://tommasozanoner.eu">tommasozanoner.eu</a> | Copyright &copy; 2021 Tommaso Zanoner. All Rights Reserved.
                     </div>
 				</div>
 			</div>
