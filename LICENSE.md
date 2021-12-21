@@ -21,7 +21,7 @@
                         <p>Il sito web utilizza un template fornito da https://macodeid.com/</p>
                         <h2>ENGLISH</h2>
                         <p>All rights reserved.</p>
-                        <p>Copyright © 2021 Digital Ladin&trade;.</p>
+                        <p>Copyright © 2021 Thomas Chiocchetti.</p>
                         <p>This Website is presented to you "AS IS", without any representations or warranties of any kind, including implied or express warranties as to the quality of the Website and/or its fitness for a particular purpose. We aim to provide an excellent error-free service, but cannot guarantee that the Website will always be available and/or error-free. To the extent permitted by law, we accept no liability for any errors and/or unavailability of our Website.</p>
                         <p>We aim to publish accurate information at all times and will update information on a regular basis. If you become aware of any inaccuracies on our website, please contact us.</p> <p>We will not be liable for any errors or unavailability of information.
                         <p>We use security measures to protect the contents of the website from viruses. However, we cannot guarantee that material and downloads from our website will be free from viruses or malicious code. It is your responsibility to ensure that you have taken precautions to protect your computer system from infection by viruses.</p>
